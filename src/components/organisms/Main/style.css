@@ -1,0 +1,9 @@
+.main {
+  background-color: lightgray;
+  border-radius: 6px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  min-height: 640px;
+}
